@@ -1,0 +1,3 @@
+Python: E:\opentalking-main\.venv\Scripts\python.exe
+torch: 2.12.0+cpu
+cuda: False
